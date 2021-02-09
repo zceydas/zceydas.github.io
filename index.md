@@ -4,7 +4,7 @@
 
 #### Creativity Data
 ##### PASTA results
-[Link] (https://zceydas.github.io/VICI_Creativity_analysis/)
+[Link](https://zceydas.github.io/VICI_Creativity_analysis/)
 
 ### - Experimental Scripts
 
