@@ -1,10 +1,10 @@
-## Welcome to my page
+# Welcome to my page
 
-# Analysis Files
+### Analysis Files
 
-## Creativity Data
-### PASTA results
+#### Creativity Data
+##### PASTA results
 [Link] (https://zceydas.github.io/VICI_Creativity_analysis/)
 
-# Experimental Scripts
+### Experimental Scripts
 
